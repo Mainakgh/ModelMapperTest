@@ -1,0 +1,13 @@
+{
+    "id":"S100",
+    "sourceField":"ModelMapper Testing",
+    "other":"BlueYonder",
+    "mobile":{
+        "id":1,
+        "name":"Samsung A33"
+    },
+    "laptop":{
+        "id":2,
+        "name":"ideapad"
+    }
+}
