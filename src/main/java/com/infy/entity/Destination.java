@@ -9,5 +9,6 @@ public class Destination {
 	private String fav;
 	private String testVar;
 	private String testChar;
+	private String thirdVar;
 
 }
