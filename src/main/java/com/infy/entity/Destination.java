@@ -10,5 +10,6 @@ public class Destination {
 	private String testVar;
 	private String testChar;
 	private String thirdVar;
+	private Integer impVar;
 
 }
